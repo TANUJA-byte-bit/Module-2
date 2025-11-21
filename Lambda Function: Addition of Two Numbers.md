@@ -1,4 +1,4 @@
-# 2c) Lambda Function in Python: Addition of Three Numbers
+#  2c) Lambda Function in Python: Addition of Three Numbers
 
 ## Aim
 To write a Python program that defines a **lambda function** which takes three arguments `a`, `b`and `c` and returns their sum.
