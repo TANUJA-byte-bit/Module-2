@@ -1,4 +1,4 @@
-## 2e)  Loops in Python: Number pattern
+##  2e)  Loops in Python: Number pattern
 
 ##  Aim
  To write a Python program to print the  simple number pattern using a for loop.Get the input for the number of rows 
