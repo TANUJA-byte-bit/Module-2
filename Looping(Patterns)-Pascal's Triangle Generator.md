@@ -1,4 +1,4 @@
-# 2d)  Looping(Patterns)Reverse Pyramid of numbers Generator in Python
+#  2d)  Looping(Patterns)Reverse Pyramid of numbers Generator in Python
 
 This project demonstrates a simple Python program to generate **Reverse Pyramid of numbers**, where the number of rows is provided by the user.
 
